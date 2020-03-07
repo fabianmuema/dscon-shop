@@ -1,0 +1,6 @@
+/* change images to have the same size */
+.img-fluid {
+    width: 250px;
+    height: 250px;
+
+}
